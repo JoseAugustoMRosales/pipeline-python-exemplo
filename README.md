@@ -1,3 +1,5 @@
+# 🚀 Pipeline com Python e GitHub Actions
+Linha exclusiva da develop
 
 # 🚨 Atividade com Python e GitHub Actions (versão conflito)
 
@@ -24,10 +26,12 @@ atividade-git-pipeline/
 ````
 
 
+
+
 ## 📚 Referências
 
 * [Documentação oficial do GitHub Actions](https://docs.github.com/actions)
+
 * [Documentação do pytest](https://docs.pytest.org/)
+
 * [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
-
-
